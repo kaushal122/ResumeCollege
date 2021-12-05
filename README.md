@@ -38,4 +38,4 @@ Showing participation in football and sports.
 
 Section 8:Contact
 Showing contact icons.
-This site is hosted at https:
+This site is hosted at https:https://kaushal122.github.io/ResumeCollege/
